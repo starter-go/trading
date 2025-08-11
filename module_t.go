@@ -9,8 +9,8 @@ import (
 
 const (
 	theModuleName     = "github.com/starter-go/trading"
-	theModuleVersion  = "0.0.0"
-	theModuleRevision = 0
+	theModuleVersion  = "0.0.1"
+	theModuleRevision = 1
 )
 
 ////////////////////////////////////////////////////////////////////////////////
